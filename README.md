@@ -41,3 +41,39 @@ Puneet Rathi
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+New Readme.md
+# My Portfolio
+
+Welcome to my portfolio! This README file provides an overview of what you'll find in this repository.
+
+## About Me
+
+I am passionate about web development and design. I specialize in creating modern, responsive websites that provide great user experiences.
+
+## Projects
+
+Here are some of the projects included in this portfolio:
+
+### Project 1: Survey Form
+
+- Description: Crafting a survey form with HTML and CSS entails structuring input fields and applying visual styles.
+- Link: https://codepen.io/Puneet-Rathi/pen/OJGprJK 
+
+### Project 2: Portfolio Website
+
+- Description: This very portfolio website you are viewing, built with HTML, CSS, and possibly some JavaScript.
+- Link: https://codepen.io/Puneet-Rathi/pen/ZEZKQRv
+
+## Contact Me
+
+If you have any questions or would like to collaborate, feel free to reach out to me:
+
+- Email: puneetrathi.code@gmail.com
+- LinkedIn: https://www.linkedin.com/in/puneet-rathi-1701k/
+
+## License
+
+This portfolio is licensed under the [MIT License](link_to_license).
+
